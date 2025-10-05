@@ -51,14 +51,3 @@ This project is for educational use only.
 ---
 
 **Robin J. Taylor** - *"Think smarter and faster, not harder and slower with AI!"*
-Scroll down to the "Commit new file" section
-Leave the commit message as is (it will say "Create README.md")
-Click "Commit new file"
-✅ When you've committed README.md, let me know and we'll create the next file!
-
-The next file will be backend/server.py - this is your main API server code.
-
-Oct 4, 08:09 PM
-
-Copy
-Agent is waiting...
